@@ -1,0 +1,64 @@
+.aprovado {
+  color: #02d102;
+}
+
+.reprovado {
+  color: #ff0000;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #F7FFE5;
+}
+body {
+  background-color: #001C30;
+}
+
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  height: 400px;
+  width: 300px;
+  margin-bottom: 10px;
+  background-color: #176B87;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+form label {
+  width: 150px;
+}
+form input {
+  color: #000000;
+  width: 150px;
+  height: 20px;
+  padding: 5px;
+}
+
+form #submitBtn {
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  color: green;
+  background-color: #02d102;
+}
+
+form #submitBtn:hover {
+  color: #02d102;
+  background-color: green;
+}
+
+
+.border-radius {
+  border-radius: 3px;
+  border: 1px solid;
+}
