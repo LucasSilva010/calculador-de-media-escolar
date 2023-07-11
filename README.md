@@ -20,7 +20,7 @@ Após o envio dos dados, eles serão processados pelo PHP e retornarão o nome d
 O calculo de aprovação será feito  a partir de uma média de 7 pontos. ( média < (menor que) 7 = reprovado; média >= (maior ou igual a) 7 = aprovado)
 
 ## Status do projeto
-Ainda está em sua primeira versão. Haverão atualizações para a melhoria da interface e da flexibilidade da ferramente, além da adição de novas funções no futuro.
+Ainda está em sua primeira versão. Haverão atualizações para a melhoria da interface e da flexibilidade da ferramenta, além da adição de novas funções no futuro.
 
 
 
